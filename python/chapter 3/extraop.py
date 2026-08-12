@@ -1,0 +1,5 @@
+print("hello"+" "+"world")
+print("hello "*3)
+print("a" in "banana")
+print("z" in "mango")
+print(len("sanyukta"))
