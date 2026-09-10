@@ -1,0 +1,3 @@
+Live score= 78
+Total score = 98
+Expected score = 100
